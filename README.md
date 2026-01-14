@@ -1,5 +1,12 @@
 # northwind-sales-revenue-dashboard
-End-to-end sales & revenue analysis using Power BI, built on a dbt-modeled analytics layer (Northwind dataset). Focused on business insights, revenue drivers, and performance trends.
+
+End-to-end sales & revenue analysis using Power BI, powered by a dbt-modeled analytics layer built on the Northwind dataset.
+Focused on revenue drivers, performance trends, and actionable business insights.
+
+## Dashboard Overview
+
+![Northwind Sales & Revenue Dashboard](assets/northwind_sales_revenue_dashboard.png)
+
 ## Data & Modeling
 The dashboard is built on top of a dbt-modeled analytics layer based on the Northwind dataset.
 The data model follows a star schema approach.
